@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-configuration-processor/3.2.0/c118a8d5f464983d7298b0f849cb9278f08d1f1e/spring-boot-configuration-processor-3.2.0.jar" />
+        </processorPath>
+        <module name="keyboard-maniac-sns.infrastructure-http.main" />
+        <module name="keyboard-maniac-sns.usecase.main" />
+        <module name="keyboard-maniac-sns.bootstrap-api.main" />
+        <module name="keyboard-maniac-sns.infrastructure-redis.main" />
+        <module name="keyboard-maniac-sns.bootstrap-batch.main" />
+        <module name="keyboard-maniac-sns.common.main" />
+        <module name="keyboard-maniac-sns.domain.main" />
+        <module name="keyboard-maniac-sns.infrastructure-persistence.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="community" target="17" />
+      <module name="community.bootstrap-api" target="17" />
+      <module name="community.bootstrap-api.main" target="17" />
+      <module name="community.bootstrap-api.test" target="17" />
+      <module name="community.bootstrap-batch" target="17" />
+      <module name="community.bootstrap-batch.main" target="17" />
+      <module name="community.bootstrap-batch.test" target="17" />
+      <module name="community.common" target="17" />
+      <module name="community.common.main" target="17" />
+      <module name="community.common.test" target="17" />
+      <module name="community.domain" target="17" />
+      <module name="community.domain.main" target="17" />
+      <module name="community.domain.test" target="17" />
+      <module name="community.infrastructure-http" target="17" />
+      <module name="community.infrastructure-http.main" target="17" />
+      <module name="community.infrastructure-http.test" target="17" />
+      <module name="community.infrastructure-persistence" target="17" />
+      <module name="community.infrastructure-persistence.main" target="17" />
+      <module name="community.infrastructure-persistence.test" target="17" />
+      <module name="community.infrastructure-redis" target="17" />
+      <module name="community.infrastructure-redis.main" target="17" />
+      <module name="community.infrastructure-redis.test" target="17" />
+      <module name="community.main" target="17" />
+      <module name="community.test" target="17" />
+      <module name="community.usecase" target="17" />
+      <module name="community.usecase.main" target="17" />
+      <module name="community.usecase.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

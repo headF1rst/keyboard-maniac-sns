@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core-api/&quot;com.keybo&quot;.keyboard-maniac-sns.core-api.iml" filepath="$PROJECT_DIR$/.idea/modules/core-api/&quot;com.keybo&quot;.keyboard-maniac-sns.core-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core-api/&quot;com.keybo&quot;.keyboard-maniac-sns.core-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core-api/&quot;com.keybo&quot;.keyboard-maniac-sns.core-api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core-api/&quot;com.keybo&quot;.keyboard-maniac-sns.core-api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/core-api/&quot;com.keybo&quot;.keyboard-maniac-sns.core-api.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/monitoring/monitoring.iml" filepath="$PROJECT_DIR$/support/monitoring/monitoring.iml" />
+    </modules>
+  </component>
+</project>
